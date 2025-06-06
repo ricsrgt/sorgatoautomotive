@@ -1,2 +1,2 @@
-# sorgatoautomotive
+# SORGATO
 Fine analog machines.
